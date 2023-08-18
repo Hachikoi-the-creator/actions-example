@@ -19,6 +19,7 @@ export const App = component$(() => {
             </div>
             <h1>Vite + Qwik</h1>
             <div class="card">
+                <h2>activate workflow</h2>
                 <button onClick$={() => count.value++}>
                     count is {count.value}
                 </button>

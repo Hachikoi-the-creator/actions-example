@@ -8,6 +8,7 @@ export const App = component$(() => {
     const count = useSignal(0);
 
     return (
+      <h2>babu</h2>
         <>
             <div>
                 <a href="https://vitejs.dev" target="_blank">

@@ -24,6 +24,10 @@ export const App = component$(() => {
                     count is {count.value}
                 </button>
             </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Nesciunt qui earum cupiditate similique?
+            </p>
             <p class="read-the-docs">
                 Click on the Vite and Qwik logos to learn more
             </p>
